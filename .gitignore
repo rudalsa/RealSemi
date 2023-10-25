@@ -96,3 +96,18 @@ replay_pid*
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
 
 ##### commit 제외파일 #####
+/RealSemi/src/main/java/common/controller
+/RealSemi/src/main/java/my/filter
+/RealSemi/src/main/java/my/util
+/RealSemi/src/main/java/util/security
+/RealSemi/src/main/webapp/bootstrap-4.6.2-dist
+/RealSemi/src/main/webapp/img
+/RealSemi/src/main/webapp/jce_policy-8
+/RealSemi/src/main/webapp/jquery-ui-1.13.1.custom
+/RealSemi/src/main/webapp/js/jquery-3.7.1.js
+/RealSemi/src/main/webapp/js/jquery-3.7.1.min.js
+/RealSemi/src/main/webapp/WEB-INF/lib
+/RealSemi/src/main/webapp/WEB-INF/Command.properties
+/RealSemi/src/main/java/login/controller/GoogleMail.java
+/RealSemi/src/main/java/login/controller/MySMTPAuthenticator.java
+/RealSemi/src/main/webapp/WEB-INF/shop/paymentGateway.jsp
